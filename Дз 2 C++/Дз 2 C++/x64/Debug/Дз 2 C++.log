@@ -1,0 +1,3 @@
+﻿  Дз 2 C++.cpp
+C:\Users\Maxym\Desktop\Дз 2 C++\Дз 2 C++.cpp(185,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Maxym\Desktop\Дз 2 C++\Дз 2 C++.cpp(195,1): error C4716: 'mine': must return a value
